@@ -39,7 +39,7 @@ $medicos = $stmt->fetchAll();
         .sidebar {
             width: 250px;
             flex-shrink: 0;
-            background-color: #f8f9fa;
+            /* background-color: #f8f9fa; */
             height: 100vh;
             position: fixed;
         }
@@ -70,7 +70,7 @@ $medicos = $stmt->fetchAll();
         }
     </style>
 </head>
-<body>
+<body class="bg-light">
     <?php include '../includes/sidebar.php'; ?>
     <div class="content">
         <h1>Listado de Médicos</h1>

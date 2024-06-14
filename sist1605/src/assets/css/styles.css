@@ -7,7 +7,7 @@
 
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #f8f9fa;
+    background-color: #ffffff;
 }
 
 /* Navbar styles */
@@ -62,11 +62,11 @@ body {
 /* Container styles */
 .container {
     margin-top: 50px;
+    /* background-color: red; */
 }
 
 body{
     width: 50%;
-    background-color: red !important;
 }
 
 

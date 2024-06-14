@@ -2,7 +2,7 @@
 <div class="col-md-3 col-lg-2 d-md-block text-white sidebar">
     <div class="text-center mb-4">
         <a href="index.php">
-            <img src="../img/logo.png" alt="Logo" class="img-fluid w-50">
+            <img src="../img/logo.png" alt="Logooo" class="img-fluid w-50">
         </a>
         <p class="mt-2">Colegio de Medicos del Estado Guarico</p>
     </div>

@@ -34,6 +34,7 @@ $pagos = $stmt->fetch(PDO::FETCH_ASSOC);
     <link rel="stylesheet" href="../assets/css/styles.css">
     <style>
         body {
+            background-color: #bffffc !important;
             margin:0 auto;
             display: flex;
             min-height: 100vh;

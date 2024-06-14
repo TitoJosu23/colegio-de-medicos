@@ -38,9 +38,15 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <title>Iniciar Sesión - Sistema de Gestión de Agremiados</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/styles.css">
+    <style>
+        .container{
+            margin-left: 55% ;
+            margin-top:30%;
+        }
+    </style>
 </head>
-<body>
-    <div class="container">
+<body class="bg-info">
+    <div class="container ">
         <div class="row justify-content-center mt-5">
             <div class="col-md-6">
                 <div class="card">
